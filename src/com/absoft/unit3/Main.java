@@ -6,6 +6,7 @@ public class Main {
 
         printRobot(robot);
         printRobot(new FolkDancingRobot());
+        printRobot(new JazzDancingRobot());
     }
 
     private static void printRobot(DancingRobot robot) {
