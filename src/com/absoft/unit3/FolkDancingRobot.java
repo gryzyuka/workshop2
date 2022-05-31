@@ -1,13 +1,13 @@
 package com.absoft.unit3;
 
-public class BalletDancingRobot extends DancingRobot{
+public class FolkDancingRobot extends DancingRobot{
     @Override
     public String getDanceType1() {
-        return "Ballet dance 1";
+        return "Ой у лузі";
     }
 
     @Override
     public String getDanceType2() {
-        return "Ballet dance 2";
+        return "Falk dance 2";
     }
 }
