@@ -1,4 +1,4 @@
-package com.absoft.unit3.robots;
+package com.absoft.unit3;
 
 public class JazzDancingRobot extends DancingRobot {
 
